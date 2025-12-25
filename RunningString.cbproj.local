@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2025.12.25 16:07:13.962,=C:\Users\PC\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2025.12.25 16:07:14.136,=C:\Users\PC\Documents\Embarcadero\Studio\Projects\File1.cpp</Transaction>
+    <Transaction>2025.12.25 16:09:58.431,D:\Projects\Programming\CPP\BDS\Console\TUI\RunningStringPCH1.h=C:\Users\PC\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2025.12.25 16:09:58.445,D:\Projects\Programming\CPP\BDS\Console\TUI\File1.cpp=C:\Users\PC\Documents\Embarcadero\Studio\Projects\File1.cpp</Transaction>
+    <Transaction>2025.12.25 16:09:58.455,D:\Projects\Programming\CPP\BDS\Console\TUI\RunningString.cbproj=C:\Users\PC\Documents\Embarcadero\Studio\Projects\Project1.cbproj</Transaction>
+    <Transaction>2025.12.25 16:10:13.215,D:\Projects\Programming\CPP\BDS\Console\TUI\RunningString.cpp=D:\Projects\Programming\CPP\BDS\Console\TUI\File1.cpp</Transaction>
+    <Transaction>2025.12.25 16:10:16.003,D:\Projects\Programming\CPP\BDS\Console\TUI\RunningString.cbproj=D:\Projects\Programming\CPP\BDS\Console\TUI\RunningString.cbproj</Transaction>
+    <Transaction>2025.12.25 16:16:41.260,=D:\Projects\Programming\CPP\BDS\Console\TUI\constream</Transaction>
+    <Transaction>2025.12.25 16:16:57.769,D:\Projects\Programming\CPP\BDS\Console\TUI\constream=D:\Projects\Programming\CPP\BDS\Console\TUI\constream</Transaction>
+  </Transactions>
+</BorlandProject>
